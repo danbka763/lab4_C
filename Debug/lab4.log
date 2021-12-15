@@ -1,0 +1,3 @@
+﻿  lab4.cpp
+D:\TUSUR\1 курс\Информатика\Лабораторные работы\lab4\lab4.cpp(15,23): warning C4305: инициализация: усечение из "double" в "float"
+  lab4.vcxproj -> D:\TUSUR\1 курс\Информатика\Лабораторные работы\lab4\Debug\lab4.exe
